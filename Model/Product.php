@@ -6,6 +6,7 @@
         public $pice;
         public $vote;
         public $pet;
+        public $img;
 
         public function __construct(string $_name, string $_brand, float $_price, string $_pet){
             $this->name = $_name;
