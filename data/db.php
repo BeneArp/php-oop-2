@@ -21,9 +21,9 @@
         ],
        
         "beds" =>[
-            new Bed('Cuccia gatti Igloo Livia', 'Trixie', 46.99, 'cat', 'https://arcaplanet.vtexassets.com/arquivos/ids/257703/36357--2-.jpg?v=637586781842200000', 'M', '45', '33'),
-            new Bed('Luna&Teo Cuccia Squalo', 'Luna&Teo', 48.60, 'cat', 'https://arcaplanet.vtexassets.com/arquivos/ids/287956/LD517_B_mod--1-.jpg?v=638236497894670000', 'S', '38', '38'),
-            new Bed('Luna&Teo Cuccia per Cani Rettangolare Borgo Verde', 'Luna&Teo', 69.66, 'dog', 'https://arcaplanet.vtexassets.com/arquivos/ids/294769/luna-teo-cuccia-per-cani-rettangolare-borgo-verde-10169822.jpg?v=638434135275370000', 'S', '75', '55'),
+            new Bed('Cuccia gatti Igloo Livia', 'Trixie', 46.99, 'cat', 'https://arcaplanet.vtexassets.com/arquivos/ids/257703/36357--2-.jpg?v=637586781842200000', 'M', 45, 33),
+            new Bed('Luna&Teo Cuccia Squalo', 'Luna&Teo', 48.60, 'cat', 'https://arcaplanet.vtexassets.com/arquivos/ids/287956/LD517_B_mod--1-.jpg?v=638236497894670000', 'S', 38, 38),
+            new Bed('Luna&Teo Cuccia per Cani Rettangolare Borgo Verde', 'Luna&Teo', 69.66, 'dog', 'https://arcaplanet.vtexassets.com/arquivos/ids/294769/luna-teo-cuccia-per-cani-rettangolare-borgo-verde-10169822.jpg?v=638434135275370000', 'S', 75, 55),
         ],
     ]
 
