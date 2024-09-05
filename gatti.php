@@ -44,7 +44,7 @@
 
             <?php foreach($db['foods'] as $food) : ?>
 
-                <?php if($food->pet === 'dog') :?>
+                <?php if($food->pet === 'cat') :?>
 
                 <div class="card m-2 p-2" style="width: 18rem;">
 
@@ -78,7 +78,7 @@
 
             <?php foreach($db['toys'] as $toy) : ?>
 
-                <?php if($toy->pet === 'dog') :?>
+                <?php if($toy->pet === 'cat') :?>
 
                 <div class="card m-2 p-2" style="width: 18rem;">
 
@@ -111,7 +111,7 @@
 
             <?php foreach($db['beds'] as $bed) : ?>
 
-                <?php if($bed->pet === 'dog') :?>
+                <?php if($bed->pet === 'cat') :?>
 
                 <div class="card m-2 p-2" style="width: 18rem;">
 
