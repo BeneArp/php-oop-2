@@ -16,7 +16,7 @@
             $this->height = $_height;
         }
 
-        public function setLenght($len){
+        public function setLength($len){
             if(is_int($len)){
                 $this->length = $len;
             }else{

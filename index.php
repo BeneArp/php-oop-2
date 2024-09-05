@@ -2,16 +2,8 @@
 
     require_once __DIR__ . '/data/db.php';
 
-    // $db['beds'][0]->setLength(75);
-    var_dump($db['beds'][0]);
-
-    try{
-        $db['beds'][0]->setLenght('abbastanza grande');
-    }catch(Exception $e){
-        echo 'Attenzione: ' . $e;
-    }
+    // var_dump($db['beds'][0]);
     
-
 ?>
 
 

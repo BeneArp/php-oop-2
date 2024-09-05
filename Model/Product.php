@@ -14,4 +14,12 @@
             $this->pet = $_pet;
             $this->img = $_img;
         }
+
+        function setPet($pet){
+            if($pet === 'dog' || $pet === 'cat'){
+                $this->pet = $pet;
+            }else{
+                throw new Exception('Il prodotto deve essere destinato nella categoria cane o gatto');
+            }
+        }
     }
